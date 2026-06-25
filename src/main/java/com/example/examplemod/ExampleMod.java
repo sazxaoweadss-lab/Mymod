@@ -1,4 +1,4 @@
-package com.example.examplemodp
+package com.example.examplemod
 
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.Items;
